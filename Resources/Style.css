@@ -32,3 +32,6 @@ img {
     border: 5px solid  rgb(15, 179, 15);
     vertical-align: middle;
 }
+.menu {
+    background-color: rgb(190, 190, 190);
+}
